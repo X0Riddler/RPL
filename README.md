@@ -1,6 +1,6 @@
 # RPL
 
-## Ransomware PHP List
+## (R)ansomware (P)HP (L)ist
 -
 -
 -
