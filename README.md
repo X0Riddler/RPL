@@ -6,4 +6,4 @@
 -
 
 
-[Author](twitter.com/X0Riddler)
+[Author](https://twitter.com/X0Riddler/)
